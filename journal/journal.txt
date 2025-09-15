@@ -1,0 +1,1 @@
+This week I used AI for some of the exercises in the assignment. When I say that I don't mean that I let it solve the problems for me. However for certain python functions that I wasn't familiar with like ".find()/.rfind()". I asked ChatGPT what those functions did and some examples of when they're used. It was good for quick learning and refreshing my mind on other terms. 
